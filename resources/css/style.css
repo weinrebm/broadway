@@ -1,5 +1,6 @@
 body{
   font-family: Helvetica;
+  text-align: center;
 }
 
 h1{
@@ -12,10 +13,23 @@ h1{
 .title-headers{
   font-size: 18px;
   color: white;
-  text-align: center;
   text-decoration: underline;
 }
 
 #main-banner{
   background-image: url("../images/the-flatiron-building.png");
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.processes{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process-explain{
+  font-size: 14px;
 }
